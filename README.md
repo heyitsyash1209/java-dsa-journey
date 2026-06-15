@@ -58,6 +58,7 @@ I will continuously update this repo as I learn and practice more.
 * Recursion 
 * Stack 
 * Queue
+* Trees
 
 
 ---
