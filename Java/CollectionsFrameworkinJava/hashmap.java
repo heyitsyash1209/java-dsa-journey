@@ -1,5 +1,5 @@
-package Java.CollectionsFrameworkinJava;
 
+package Java.CollectionsFrameworkinJava;
 import java.util.HashMap;
 
 public class hashmap{

@@ -11,7 +11,7 @@ class Puppy implements cat,Dog{
         System.out.println("the puppy woofs");
     }
 }
-class demonstrate{
+class interfacedemonstrate{
     public static void main(String[] args){
         Puppy p1 = new Puppy();
         p1.sound();

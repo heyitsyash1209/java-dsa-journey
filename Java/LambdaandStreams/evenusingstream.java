@@ -1,4 +1,4 @@
-package Java.LambdaandStreams;
+
 
 import java.util.List;
 public class evenusingstream{

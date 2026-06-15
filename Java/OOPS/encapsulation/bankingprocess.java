@@ -1,3 +1,4 @@
+
 class BankAccount {
 
     // PRIVATE → data hiding (encapsulation core)

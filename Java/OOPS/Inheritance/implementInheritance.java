@@ -1,3 +1,4 @@
+
 class Appliance{
     void turnOn(){
         System.out.println("turn on the all applioences");

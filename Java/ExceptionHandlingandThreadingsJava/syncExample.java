@@ -27,7 +27,7 @@ class MyThread extends Thread {
     }
 }
 
-public class SyncExample {
+public class syncExample {
     public static void main(String[] args) throws InterruptedException {
 
         Counter c = new Counter();

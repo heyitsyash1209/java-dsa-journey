@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 interface Calculation {
     int operate(int a, int b);

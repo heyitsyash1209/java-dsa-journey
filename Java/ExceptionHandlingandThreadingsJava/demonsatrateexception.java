@@ -1,6 +1,5 @@
 package Java.ExceptionHandlingandThreadingsJava;
 
-package Java.ExceptionHandlingandThreadingsJava;
 
 public class demonsatrateexception{
     public class Main {

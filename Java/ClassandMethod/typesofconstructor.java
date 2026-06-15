@@ -1,3 +1,4 @@
+package Java.ClassandMethod;
 class dog {
     String name;
     String color;

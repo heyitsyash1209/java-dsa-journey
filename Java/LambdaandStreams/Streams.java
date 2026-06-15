@@ -1,4 +1,4 @@
-package Java.LambdaandStreams;
+
 import java.util.List;
 import java.util.stream.Collectors;
 public class Streams{
