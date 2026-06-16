@@ -59,6 +59,7 @@ I will continuously update this repo as I learn and practice more.
 * Stack 
 * Queue
 * Trees
+* Graphs
 
 
 ---
