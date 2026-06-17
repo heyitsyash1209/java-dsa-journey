@@ -60,6 +60,7 @@ I will continuously update this repo as I learn and practice more.
 * Queue
 * Trees
 * Graphs
+* Greedy Algorithms
 
 
 ---
