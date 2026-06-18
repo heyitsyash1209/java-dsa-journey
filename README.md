@@ -61,6 +61,7 @@ I will continuously update this repo as I learn and practice more.
 * Trees
 * Graphs
 * Greedy Algorithms
+* Basic Knowledge of Dyanmic programming
 
 
 ---
