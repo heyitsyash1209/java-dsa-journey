@@ -41,6 +41,7 @@ I will continuously update this repo as I learn and practice more.
 * Input / Output
 * Loops
 * Arrays
+* String
 * Functions
 * Basic OOP concepts
 * Collections (ArrayList, HashMap, HashSet)
