@@ -1,5 +1,5 @@
 package DSA.Arrays;
-
+//2520 count the digits and divide with number
 class Solution {
     public int countDigits(int num) {
         int count = 0;
